@@ -1,34 +1,3 @@
 {
-  "asif": {
-    "1": {
-      "driverName": "umer iftikhar",
-      "payment": "20",
-      "paymentDate": "2024-11-25",
-      "paymentStatus": "Paid in full",
-      "currency": "GBP"
-    },
-    "2": {
-      "driverName": "umer iftikhar",
-      "payment": "20",
-      "paymentDate": "2024-11-26",
-      "paymentStatus": "Paid in full",
-      "currency": "GBP"
-    },
-    "3": {
-      "driverName": "umer iftikhar",
-      "payment": "10",
-      "paymentDate": "2024-11-28",
-      "paymentStatus": "Partially paid",
-      "currency": "USD"
-    }
-  },
-  "test": {
-    "1": {
-      "driverName": "muhammamed aden",
-      "payment": "20",
-      "paymentDate": "2024-11-28",
-      "paymentStatus": "Paid in full",
-      "currency": "GBP"
-    }
-  }
+  
 }
