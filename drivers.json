@@ -1,20 +1,3 @@
 [
-  {
-    "firstName": "umer",
-    "lastName": "iftikhar",
-    "email": "umer@gmail.com",
-    "phone": "12345",
-    "carModel": "test",
-    "licensePlate": "abc123",
-    "color": "#FF0000"
-  },
-  {
-    "firstName": "muhammamed",
-    "lastName": "aden",
-    "email": "aden@gmail.com",
-    "phone": "1245678",
-    "carModel": "test",
-    "licensePlate": "afdf556",
-    "color": "#0000FF"
-  }
+  
 ]
